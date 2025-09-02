@@ -1,0 +1,10 @@
+RAD
+Equipo:
+
+Valeria De Los Angeles Cruz May -> Matricula: 220103
+Kevin Josepf Huerta Moreno -> Matricula: 220248
+Carlos Alejandro Acosta Mendez -> Matricula: 190157
+Ruben Horacio Machuca Santos -> Matricula: 194267
+
+Enlace al Proyecto
+https://www.notion.so/Proyecto-RAD-25f07d97cdbf806f8922e08369cb3225?source=copy_link 
